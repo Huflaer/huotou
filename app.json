@@ -29,10 +29,10 @@
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/kaiedkf23/task/master/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/Huflaer/listenway/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/kaiedkf23/task",
-    "repository": "https://github.com/kaiedkf23/task",
+    "website": "https://github.com/Huflaer/listenway",
+    "repository": "https://github.com/Huflaer/listenway",
     "stack": "container"
 }
